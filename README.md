@@ -1,16 +1,81 @@
-# React + Vite
+# Chocolate Shop E-Commerce Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern e-commerce website built with React as part of my personal software development portfolio.
 
-Currently, two official plugins are available:
+> **Project Status:** 🚧 In Development
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 📖 About the Project
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This project is being developed to strengthen my front-end development skills by building a realistic online chocolate shop using React.
 
-## Expanding the ESLint configuration
+The website focuses on modern web development practices including reusable components, client-side routing, responsive layouts and clean user interface design.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+As the project develops, additional features such as shopping baskets, authentication and backend integration will be added.
+
+---
+
+## ✨ Current Features
+
+- Responsive homepage
+- Product catalogue
+- Individual product pages
+- React Router navigation
+- Reusable React components
+
+---
+
+## 🚀 Planned Features
+
+- Shopping basket
+- Checkout system
+- Product search
+- Product filtering
+- User accounts
+- Wishlist
+- Backend integration
+- Admin dashboard
+
+---
+
+## 🛠️ Built With
+
+- React
+- JavaScript
+- HTML5
+- CSS3
+- Vite
+
+---
+
+## 📈 Learning Goals
+
+This project is helping me develop experience with:
+
+- React
+- Component-based development
+- Responsive web design
+- Git & GitHub workflows
+- Building larger front-end applications
+
+---
+
+## 📷 Screenshots
+
+Screenshots will be added as development progresses.
+
+---
+
+## Author
+
+**Mia Louise Routledge**
+
+BSc (Hons) Computer Science Graduate  
+Northumbria University
+
+---
+
+## Contact
+
+**GitHub:** https://github.com/mialouiseDev
